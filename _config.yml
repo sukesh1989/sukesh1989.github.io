@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+gems: [jekyll-paginate,jekyll-gist]
+# Setup
+title:            Sukesh
+tagline:          '''
+description:      ''
+url:              http://blog.suke.sh
+baseurl:          /sukesh1989.github.io/
+
+author:
+  name:           'Sukesh Salian'
+  url:            https://twitter.com/fatindiancoder
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/sukesh1989
