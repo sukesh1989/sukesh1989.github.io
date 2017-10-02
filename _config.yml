@@ -6,7 +6,7 @@ permalink:           pretty
 gems: [jekyll-paginate,jekyll-gist]
 # Setup
 title:            Sukesh
-tagline:          '''
+tagline:          ''
 description:      ''
 url:              http://blog.suke.sh
 baseurl:          /sukesh1989.github.io/
