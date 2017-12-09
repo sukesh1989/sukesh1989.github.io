@@ -15,7 +15,7 @@ author:
   name:           'Sukesh Salian'
   url:            https://twitter.com/fatindiancoder
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 version:          2.1.0
